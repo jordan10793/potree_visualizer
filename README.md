@@ -1,3 +1,3 @@
 Test potree lidar data
 
-[Visualizaer](www.google.com)
+[Visualizaer](https://jordan10793.github.io/potree_visualizer/)
